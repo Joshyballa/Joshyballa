@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joshyballa
-- 👀 I’m interested in learning python
+- 👀 I’m learning python
 - 🌱 I’m currently learning html, css,javascript, wordpress
 - 💞️ I’m looking to collaborate on <web design projects>
 - 📫 How to reach me joshyballa @ github or joshuaorji35@gmail.com
